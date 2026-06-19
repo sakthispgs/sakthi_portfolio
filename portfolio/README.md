@@ -64,35 +64,6 @@ npm run build
 npm run start
 ```
 
-## ☁️ Deploy to Vercel
-
-1. Push this repo to GitHub (done ✅)
-2. Go to [vercel.com](https://vercel.com) → **Add New Project** → import this repo
-3. Vercel auto-detects Next.js — click **Deploy**
-
-Every push to `main` auto-redeploys.
-
-## ✏️ Editing Content
-
-All text — name, bio, skills, projects, experience, achievements, contact info — lives in a single file:
-
-```
-data/content.js
-```
-
-Edit it and the whole site updates. No component changes needed for routine content edits.
-
-## 🖼 Updating the Photo
-
-Replace `public/images/sakthivel-portrait.jpg` with a new image of the same filename (ideally a 4:5 portrait crop), then rebuild.
-
-## 📋 Notes
-
-- **Resume button** currently links to email (`mailto:`). Update `personal.resumeLink` in `data/content.js` with a hosted PDF or LinkedIn URL once ready.
-- **Contact form** opens the visitor's email client with a pre-filled message — no backend needed. For true in-page submission, connect [Formspree](https://formspree.io/) or [EmailJS](https://www.emailjs.com/) and update `handleSubmit` in `components/Contact.jsx`.
-- **Blog section** is a "Coming Soon" placeholder — ready for MDX-based posts later.
-- **Theme** persists via `localStorage`, defaults to dark on first visit.
-
 ## 📬 Connect
 
 - Email: [sakthispgs@gmail.com](mailto:sakthispgs@gmail.com)
