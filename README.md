@@ -12,7 +12,7 @@
 
 A premium, dark-themed personal portfolio with animated project case studies, a live skills dashboard, and full dark/light mode support.
 
-[**Live Demo**](#) · [Report an Issue](https://github.com/sakthispgs/sakthi_portfolio/issues)
+[**Live Demo**](https://sakthi-portfolio-sakthi3.vercel.app/) · [Report an Issue](https://github.com/sakthispgs/sakthi_portfolio/issues)
 
 </div>
 
